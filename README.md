@@ -1,1 +1,2 @@
-# data_structures_algorithms
+# A Common-Sense Guide to Data Structures and Algorithms
+# by Jay Wengrow
