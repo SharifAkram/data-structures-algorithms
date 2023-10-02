@@ -18,6 +18,8 @@ class Stack
   end
 end
 
+=begin
+
 stack = Stack.new
 
 stack.push(10)
@@ -27,3 +29,5 @@ stack.pop
 
 puts stack.read
 # 20
+
+=end
