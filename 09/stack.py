@@ -6,6 +6,9 @@ class StackOne:
         self.items = []
 
     def push(self, item):
+        self.items.append(item)
+
+    def pop(self):
         if len(self.items) == 0:
             return None
         return self.items.pop()
