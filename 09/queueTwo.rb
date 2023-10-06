@@ -1,4 +1,4 @@
-# Using enqueue and dequeue methods
+# Ruby's implementation of a queue from DSA
 
 
 class QueueTwo
