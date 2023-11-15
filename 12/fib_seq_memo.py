@@ -1,3 +1,6 @@
+# (2N) - 1 = O(N) with memoization
+
+
 def fib(n, memo={}):
     if n == 0 or n == 1:
         return n
